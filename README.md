@@ -30,24 +30,24 @@
 
 ## 🔥 Projects & Highlights
 
-1]. 🚗 CarHub :- Car Dealership Website.
-A full-stack MERN car dealership web application with dynamic listings, admin dashboard, and complete CRUD functionality.  
-🔗 Live: https://car-dealership-website-livid.vercel.app/  
-🔗 GitHub: https://github.com/mayurthigale2002/Car-Dealership-Website  
+## 1]. 🚗 CarHub :- Car Dealership Website.
+- A full-stack MERN car dealership web application with dynamic listings, admin dashboard, and complete CRUD functionality.  
+- 🔗 Live: https://car-dealership-website-livid.vercel.app/  
+- 🔗 GitHub: https://github.com/mayurthigale2002/Car-Dealership-Website  
 
 ---
 
-2]. 🎓 CourseWal's :- Online Learning Platform.
-A CourseWala's-inspired learning platform built with modern UI design and structured course management system.
-🔗 Live: https://onlinelearning-kohl.vercel.app/
-🔗 GitHub: https://github.com/mayurthigale2002/Online-Learning-Platform  
+## 2]. 🎓 CourseWal's :- Online Learning Platform.
+- A CourseWala's-inspired learning platform built with modern UI design and structured course management system.
+- 🔗 Live: https://onlinelearning-kohl.vercel.app/
+- 🔗 GitHub: https://github.com/mayurthigale2002/Online-Learning-Platform  
 
 ---
 
-3]. 🌐 Portfolio :- Mayur's Portfolio Website.
-A responsive personal portfolio built with React to showcase projects, skills, and technical expertise.  
-🔗 Live: https://portfolio-two-hazel-69.vercel.app/ 
-🔗 GitHub: https://github.com/mayurthigale2002/Mayur-s-Portfolio  
+## 3]. 🌐 Portfolio :- Mayur's Portfolio Website.
+- A responsive personal portfolio built with React to showcase projects, skills, and technical expertise.  
+- 🔗 Live: https://portfolio-two-hazel-69.vercel.app/ 
+- 🔗 GitHub: https://github.com/mayurthigale2002/Mayur-s-Portfolio  
 
 ---
 
