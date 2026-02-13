@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mayur Thigale</h1>
+<h1 align="center">Hiii.. 👋, I'm Mayur Thigale</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
 
 ---
