@@ -51,17 +51,11 @@
 
 ---
 
-- 🔭 I’m currently working on **CarHub – Car Dealership Web App**
-- 🌱 I’m currently learning **Advanced React & Backend Development**
+## 🤝 Connect with me
+---
 - 👨‍💻 All of my projects are available at  
   👉 https://github.com/mayurthigale2002
-- 💬 Ask me about **React, JavaScript & MERN Stack**
 - 📫 How to reach me **mayurthigale2002@gmail.com**
-- ⚡ Fun fact: I love building clean and modern UI designs.
-
----
-
-## 🤝 Connect with me
 
 <p>
   <a href="https://www.linkedin.com/in/mayur-thigale-14b8312b1" target="_blank">
